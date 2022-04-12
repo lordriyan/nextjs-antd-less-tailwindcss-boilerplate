@@ -6,7 +6,6 @@ This repository is the best combination of Next.js, Ant Design, Less, and Tailwi
 
 - Git
 - Node.js
-- npm
 
 ## Quickstart
 
@@ -16,18 +15,18 @@ This repository is the best combination of Next.js, Ant Design, Less, and Tailwi
 
 2. Install all dependecies
 
-        $ npm install
+        $ yarn
 
 3. Run your project
 
     - Development
 
-            $ npm run dev
+            $ yarn dev
 
     - Production
 
-            $ npm run build
-            $ npm start
+            $ yarn build
+            $ yarn start
 
 4. Navigate to http://localhost:3000/ to see your web page
 
